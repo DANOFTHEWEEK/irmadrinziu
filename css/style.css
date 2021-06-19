@@ -112,3 +112,37 @@ ul li.active a{
 .rest p{
     color: #fff;
 }
+
+.phone img{
+    float: left;
+    width: 75px;
+    height: auto;
+}
+
+.phone{
+    position: absolute;
+    top: 30%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+}
+
+.phone p{
+    color: #fff;
+}
+
+.email img{
+    float: left;
+    width: 75px;
+    height: auto;
+}
+
+.email{
+    position: absolute;
+    top: 40%;
+    left: 78%;
+    transform: translate(-50%, -50%);
+}
+
+.email p{
+    color: #fff;
+}
