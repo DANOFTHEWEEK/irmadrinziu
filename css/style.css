@@ -52,7 +52,7 @@ ul li.active a{
 
 .title{
     position: absolute;
-    top: 20%;
+    top: 40%;
     left: 25%;
     transform: translate(-50%, -50%);
 }
@@ -80,7 +80,7 @@ ul li.active a{
 
 .button{
     position: absolute;
-    top: 30%;
+    top: 50%;
     left: 13%;
     transform: translate(-50%, -50%);
 }
@@ -122,7 +122,7 @@ ul li.active a{
 .phone{
     position: absolute;
     top: 30%;
-    left: 75%;
+    left: 65%;
     transform: translate(-50%, -50%);
 }
 
@@ -145,4 +145,11 @@ ul li.active a{
 
 .email p{
     color: #fff;
+}
+
+.made_it{
+    color: white;
+    position: absolute;
+    top: 97%;
+    left: 78%;
 }
